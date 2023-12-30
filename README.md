@@ -9,7 +9,8 @@
 <div align="left"> 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhijeetsharnagat&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abhijeetsharnagat&label=Profile%20Views&color=10&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on AI Powered - MERN Stack projects.<br>🌱 Constantly learning and improving, currently diving into Full Stack(Javascript) .<br>🤝 I’m looking for help with exploring new technologies and improving my coding skills.<br>👯 I’m looking to collaborate on software solutions and innovative projects.<br>💬 Ask me about my experience in Full Stack (Javascript),Power BI and DSA ♥ .<br>📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/abhijeet-sharnagat-a20b54242/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:abhijeetsharnagat200@gmail.com)
