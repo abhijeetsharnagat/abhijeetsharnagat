@@ -2,7 +2,7 @@
 <!-- You can edit this image in paint and host the image on https://sm.ms/ -->
 
 <h1 align="center">Hey there! I'm Abhijeet Sharnagat👋</h1>
-<h3 align="center">🚀 Software Developer | Frontend Developer | Anchor 🚀</h3>
+<h3 align="center">🚀 Full Stack Developer @Provoke Developers 🚀</h3>
 
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://res.cloudinary.com/djo0mmfll/image/upload/v1686268899/gfgfcfg_eb84wp.gif" />
