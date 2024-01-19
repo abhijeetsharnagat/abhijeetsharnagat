@@ -22,5 +22,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetsharnagat&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeetsharnagat&show_icons=true&locale=en&layout=compact" alt="abhijeetsharnagat" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetsharnagat&show_icons=true&locale=en" alt="abhijeetsharnagat" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetsharnagat&" alt="abhijeetsharnagat" /></p>
 
